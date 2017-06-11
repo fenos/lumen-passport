@@ -22,7 +22,7 @@
         "php": ">=5.6.4",
         "illuminate/database": "~5.3|~5.4",
         "illuminate/support": "~5.3|~5.4",
-        "fenos/passport": "dev-2.0"
+        "fenos/passport": "2.0.x-dev"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
